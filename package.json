@@ -1,0 +1,23 @@
+{
+  "name": "lab1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "color-string": "^1.9.1",
+    "contains-emoji": "^1.1.4",
+    "fun-animal-names": "^0.1.1",
+    "i": "^0.3.7",
+    "install": "^0.13.0",
+    "orc-me": "^1.1.6"
+  },
+  "devDependencies": {
+    "@vid3v/random-color": "^2.0.0"
+  }
+}
